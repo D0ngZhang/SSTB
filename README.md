@@ -28,12 +28,7 @@ This offers a practical, cost-effective alternative to MRI-based PDFF, enabling 
 
 ## Results
 
-| Method         | MAE ↓  | LPE ↓  | SSIM ↑ | PSNR (dB) ↑ | Dice (%) ↑ | HD ↓  |
-|----------------|--------|--------|--------|-------------|------------|-------|
-| SGCDD-GAN      | 0.0342 | 0.0313 | 0.797  | 28.65       | 85.49      | 6.06  |
-| SASAN          | 0.0356 | 0.0768 | 0.739  | 22.37       | 84.72      | 5.50  |
-| MHVAE          | 0.0332 | 0.0464 | 0.816  | 28.98       | -          | -     |
-| **SSTB (Ours)**| **0.0246** | **0.0276** | **0.833** | **30.66** | **88.13** | **5.38** |
+![Alt Text](doc/Result0.png)
 
 ![Alt Text](doc/Result1.png)
 
