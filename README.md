@@ -2,7 +2,7 @@
 
 This repository hosts documentation and controlled-access request information for our SSTB framework.
 
-Due to ongoing IP agreements, pretrained models are available upon request for **non-commercial academic research** only.
+Due to ongoing IP agreements, pretrained models are available upon request for **non-commercial academic research** and only upon **approval of our industry partners**.
 
 **🔗 [Google Request Form](https://docs.google.com/forms/d/e/1FAIpQLSds-WYsSX7jaM6EVQFzyb7AwtfYgk3hCcZBr3_IivItah9wYQ/viewform?usp=sharing&ouid=100817192501032993715)**
   
