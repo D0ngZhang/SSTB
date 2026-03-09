@@ -86,7 +86,7 @@ If you use SSTB in your research, please cite:
 ### Diffusion-based methods fail to stabilize and converge
 
 <p align="center">
-  <img src="doc/diffusion_loss.png" width="400">
+  <img src="doc/diffusion_loss.png" width="500">
 </p>
 
 <p align="center">
@@ -94,10 +94,21 @@ If you use SSTB in your research, please cite:
 </p>
 
 <p align="center">
-  <img src="doc/diffusion_results.png" width="400">
+  <img src="doc/diffusion_results.png" width="450">
 </p>
 
 <p align="center">
   Results by diffusion-based methods and our method.
 </p>
+
+### Optimal hyper-parameter selection
+
+<table>
+<tr>
+<td align="center"><img src="doc/modality.png" width="200"><br>(a) Results for MRI modalities.</td>
+<td align="center"><img src="doc/lambda.png" width="200"><br>(b) Results for adversarial loss weights.</td>
+<td align="center"><img src="doc/patch.png" width="200"><br>(c) Results for patch percentages.</td>
+<td align="center"><img src="doc/proto_size.png" width="200"><br>(d) Results for prototype sizes.</td>
+</tr>
+</table>
 
