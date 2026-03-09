@@ -86,7 +86,7 @@ If you use SSTB in your research, please cite:
 ### Diffusion-based methods fail to stabilize and converge
 
 <p align="center">
-  <img src="doc/diffusion_losses.png" width="900">
+  <img src="doc/diffusion_loss.png" width="900">
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ If you use SSTB in your research, please cite:
 </p>
 
 <p align="center">
-  <img src="doc/diffusion_results" width="900">
+  <img src="doc/diffusion_results.png" width="900">
 </p>
 
 <p align="center">
