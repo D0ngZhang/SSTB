@@ -112,3 +112,20 @@ If you use SSTB in your research, please cite:
 </tr>
 </table>
 
+### Prototype diversity and usage frequency
+
+
+<table>
+<tr>
+<td align="center"><img src="doc/proto_a.png" width="200"><br>(a) Prototype similarity on US image.</td>
+<td align="center"><img src="doc/proto_b.png" width="200"><br>(b) Prototype similarity on PDFF image.</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="doc/proto_c.png" width="400">
+</p>
+
+<p align="center">
+  Prototype usage frequency.
+</p>
