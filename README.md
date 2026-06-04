@@ -73,11 +73,12 @@ All images must be .nii.gz format and spatially aligned.
 This project is released for non-commercial academic research use only.
 If you use SSTB in your research, please cite:
 ```bash
-@article{zhang2025sstb,
+@article{zhang2026self,
   title={Self-supervised T2WI-bridged framework for liver segmentation and PDFF prediction from US images},
-  author={Dong Zhang and Qi Zeng and Septimiu E. Salcudean and Z. Jane Wang},
+  author={Zhang, Dong and Zeng, Qi and Salcudean, Septimiu E and Wang, Z Jane},
   journal={IEEE Transactions on Medical Imaging},
-  year={2025}
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
@@ -101,40 +102,7 @@ If you use SSTB in your research, please cite:
   Results by diffusion-based methods and our method.
 </p>
 
-### Optimal hyper-parameter selection
 
-<table>
-<tr>
-<td align="center"><img src="doc/modality.png" width="200"><br>(a) Results for MRI modalities.</td>
-<td align="center"><img src="doc/lambda.png" width="200"><br>(b) Results for adversarial loss weights.</td>
-<td align="center"><img src="doc/patch.png" width="200"><br>(c) Results for patch percentages.</td>
-<td align="center"><img src="doc/proto_size.png" width="200"><br>(d) Results for prototype sizes.</td>
-</tr>
-</table>
-
-### Prototype diversity and usage frequency
-
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="doc/proto_a.png" width="200"><br>
-(a) Prototype similarity on US image.
-</td>
-
-<td align="center">
-<img src="doc/proto_b.png" width="250"><br>
-(b) Prototype similarity on PDFF image.
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="doc/proto_c.png" width="400">
 </p>
 
 <p align="center">
