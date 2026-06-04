@@ -101,10 +101,3 @@ If you use SSTB in your research, please cite:
 <p align="center">
   Results by diffusion-based methods and our method.
 </p>
-
-
-</p>
-
-<p align="center">
-  Prototype usage frequency.
-</p>
